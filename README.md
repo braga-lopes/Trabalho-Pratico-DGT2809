@@ -4,7 +4,7 @@
 ## Como rodar
 
 1. Descompacte esta pasta em algum lugar do seu computador (ex: `Downloads`)
-2. Abra o terminal (PowerShell)
+2. Abra o terminal (PowerShell) dentro da pasta
 3. Instale as dependências:
    ```powershell
    npm install
