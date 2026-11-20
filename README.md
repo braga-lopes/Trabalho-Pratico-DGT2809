@@ -8,19 +8,21 @@
 3. Instale as dependências:
    ```powershell
    npm install
-   
+   ```
+4. Se nescessário:
+   ```powershell
    npm install --force
    ```
-4. Rode o projeto:
+5. Rode o projeto:
    ```powershell
    npm start
    ```
-5. Rodar como administrador:
+6. Rodar como administrador:
    ```powershell
    ng serve
    ```
-6. Espere aparecer `✔ Compiled successfully` no terminal
-7. Abra o navegador (Chrome/Edge) e digite na barra de endereço:
+7. Espere aparecer `✔ Compiled successfully` no terminal
+8. Abra o navegador (Chrome/Edge) e digite na barra de endereço:
    ```
    http://localhost:4200
    ```
